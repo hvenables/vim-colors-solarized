@@ -305,7 +305,7 @@ elseif g:solarized_termcolors == 256
     let s:base01      = "239"
     let s:base00      = "240"
     let s:base0       = "244"
-    let s:base1       = "245"
+    let s:base1       = "196"
     let s:base2       = "187"
     let s:base3       = "230"
     let s:yellow      = "136"
@@ -315,7 +315,7 @@ elseif g:solarized_termcolors == 256
     let s:violet      = "61"
     let s:blue        = "33"
     let s:cyan        = "37"
-    let s:green       = "64"
+    let s:green       = "34"
 else
     let s:vmode       = "cterm"
     let s:bright      = "* term=bold cterm=bold"
